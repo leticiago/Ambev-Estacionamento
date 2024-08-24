@@ -6,9 +6,4 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
-  <ItemGroup>
-    <ProjectReference Include="..\MVC.Data\MVC.Data.csproj" />
-    <ProjectReference Include="..\MVC.Models\MVC.Models.csproj" />
-  </ItemGroup>
-
 </Project>
