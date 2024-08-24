@@ -7,8 +7,8 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Data\MVC.Data.csproj" />
-    <ProjectReference Include="..\Models\MVC.Models.csproj" />
+    <ProjectReference Include="..\MVC.Data\MVC.Data.csproj" />
+    <ProjectReference Include="..\MVC.Models\MVC.Models.csproj" />
   </ItemGroup>
 
 </Project>

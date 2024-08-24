@@ -11,8 +11,8 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Data\MVC.Data.csproj" />
-    <ProjectReference Include="..\Services\MVC.Services.csproj" />
+    <ProjectReference Include="..\MVC.Data\MVC.Data.csproj" />
+    <ProjectReference Include="..\MVC.Services\MVC.Services.csproj" />
   </ItemGroup>
 
 </Project>

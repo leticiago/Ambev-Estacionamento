@@ -20,11 +20,11 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Models\MVC.Models.csproj" />
+    <Folder Include="Migrations\" />
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Migrations\" />
+    <ProjectReference Include="..\MVC.Models\MVC.Models.csproj" />
   </ItemGroup>
 
 </Project>
