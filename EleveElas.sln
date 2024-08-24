@@ -13,23 +13,23 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GestaoDeEventos", "GestaoDe
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CleanArch", "CleanArch", "{714F276E-1640-4B0B-A920-E28EC78001B6}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Domain", "Domain\Domain.csproj", "{DE337CB5-03E9-4A0F-9F33-CB7685843758}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CleanArch.Domain", "Domain\CleanArch.Domain.csproj", "{DE337CB5-03E9-4A0F-9F33-CB7685843758}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Application", "Application\Application.csproj", "{4A656844-1F58-4241-8DF5-B7A07E2E76D3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CleanArch.Application", "Application\CleanArch.Application.csproj", "{4A656844-1F58-4241-8DF5-B7A07E2E76D3}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Infra", "Infra\Infra.csproj", "{B91B941B-A969-47B6-A5EE-73AEBA698D76}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CleanArch.Infra", "Infra\CleanArch.Infra.csproj", "{B91B941B-A969-47B6-A5EE-73AEBA698D76}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CleanArch.Api", "PresentationApi\CleanArch.Api.csproj", "{4BA22BED-3A8D-4212-880B-E885C4DCB22F}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "MVC", "MVC", "{23EDF2EE-6B6E-491E-91AB-4FA1234DFBD8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Models", "Models\Models.csproj", "{DAF3BF0D-8989-4EE8-9A69-8E075B8743BD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MVC.Models", "Models\MVC.Models.csproj", "{DAF3BF0D-8989-4EE8-9A69-8E075B8743BD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Services", "Services\Services.csproj", "{41E9D851-C15F-4A21-BABA-8B917DBC9579}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MVC.Services", "Services\MVC.Services.csproj", "{41E9D851-C15F-4A21-BABA-8B917DBC9579}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVC.Api", "MVC.Api\MVC.Api.csproj", "{51543F1E-C601-4CA9-BDE8-D0EB5E1E8904}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MVC.Api", "MVC.Api\MVC.Api.csproj", "{51543F1E-C601-4CA9-BDE8-D0EB5E1E8904}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Data", "Data\Data.csproj", "{58CD3AC7-4A54-40E9-9221-ECA379F059AB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MVC.Data", "Data\MVC.Data.csproj", "{58CD3AC7-4A54-40E9-9221-ECA379F059AB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
